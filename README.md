@@ -1,5 +1,7 @@
 # Sauce Finder
 Anime image finder using the SauceNao API
+Don't forget to...
+    pip install saucenao
 
 # Usage
 Currently this only supports images from urls.
